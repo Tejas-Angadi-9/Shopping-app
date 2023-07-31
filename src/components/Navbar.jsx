@@ -18,7 +18,7 @@ const Navbar = () => {
             />
           </div>
         </NavLink>
-        <div className="text-xl font-semibold">Shopping App</div>
+        <div className="text-lg font-semibold md:text-xl">Shopping App</div>
 
         <div className="flex items-center font-medium mr-5 space-x-6">
           <NavLink to="/">
